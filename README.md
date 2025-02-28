@@ -30,7 +30,12 @@ cd HwlloETS
 ```bash
 python -m venv .venv
 ```
-- 请参照 [官方文档](https://docs.python.org/3/library/venv.html#how-venvs-work) 根据你的系统激活venv环境
+- 请参照 [官方文档](https://docs.python.org/3/library/venv.html#how-venvs-work) 根据你的系统激活venv环境  
+  此处给出Windows Powershell下的参考：
+
+  ```powershell
+  .venv\Scripts\Activate.ps1
+  ```
 
 #### **Step3: 安装必要依赖**
 
