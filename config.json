@@ -1,0 +1,16 @@
+{
+    "adb": {
+        "host": "127.0.0.1",
+        "port": 16384
+    },
+    "screenshot": {
+        "fps": 5
+    },
+    "tts": {
+        "language": "en"
+    },
+    "ocr": {
+        "language": "eng",
+        "tesseract_cmd": "D:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+    }
+}
