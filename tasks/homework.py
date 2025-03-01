@@ -75,13 +75,13 @@ class HomeworkTask(BaseTask):
         self.follow_sentences_range = {
             'description': '一个矩形范围，定义跟读模式中文本的范围',
             'type': 'range',
-            'top': 240,
+            'top': 245,
             'bottom': 1243,
             'left': 146,
             'right': 844
         }
         
-        self.follow_sentences_step_height = 30 # 每30像素拼接一次
+        self.follow_sentences_step_height = 29 # 每29像素拼接一次
         
         self.stop_recording_button = {
             'description': '停止录音按钮',
